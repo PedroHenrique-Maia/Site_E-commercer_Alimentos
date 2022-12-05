@@ -1,0 +1,157 @@
+
+
+body{
+	margin:0;
+
+}
+
+nav{
+	text-align:center;
+
+}
+
+#principal{
+	margin:0 auto;
+	width:100%;
+	max-width:1000px;
+
+
+}
+
+#titulo{
+
+	
+	float:left;
+	width:100%;
+	
+
+}
+
+#titulo img{
+width:1000px;
+	height:250px;
+
+}
+#banner{
+	width:100%;
+}
+
+#banner img{
+
+	
+	
+	width:1000px;
+	height:600px;
+	
+}
+
+.menu{
+	list-style:none;
+	float:right;
+	position:relative;
+	
+}
+
+.menu li{
+	position:relative;
+	float:left;
+	}
+
+.menu li a{
+	text-decoration:none;
+	padding:10px 10px;
+	display:inline-block;
+	color:#5C3317;
+	font-size:14px;
+	font-weight:bold;
+}
+
+.menu li a:hover{
+	background-color:#FFE7BA;
+	color:#8B6914;
+}
+
+.menu li ul{
+	position:absolute;
+	
+	top:25px;
+	display:none;
+	left:0;
+	background-color:#FFE7BA;
+	}
+	
+.menu li:hover ul{
+	display:block;
+
+}
+
+.menu li ul li{
+	display:block;
+	width:150px;
+	
+}
+
+.imagem img{
+	width:285px;
+	height:200px;
+
+}
+
+.imagem{
+
+	display:inline-block;
+	margin:3px;
+	padding:3px;
+}  
+
+footer{
+	margin:0 auto;
+
+}
+
+.rodape img{
+width:100%;
+	height:150px;
+	
+	}
+
+.rdp{
+	display:inline-block;
+	padding:10px;
+	margin:20px;
+}
+
+#slides img{
+
+	width:100%;
+	height:400px;
+
+
+}
+#slides2 img{
+
+	width:100%;
+	height:200px;
+	}
+	.upp{
+	background-image: url("../imagens/fundo.jpg");
+	
+	
+	}
+	.upp1{
+	background-image: url("../imagens/123.jpg");
+	background-size: cover;
+	
+	}
+
+
+
+
+
+
+
+
+
+
+
+
